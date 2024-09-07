@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Akhil Athawale, an E&TC engineer from Pune.
-- 👀 I work on embedded devices and IoT edge device development.
-- 🌱 I’m currently learning how to manage large-ish projects single-handedly, since I see myself working for small companies without much manpower. Also, I'm learning about PLCs, ladder logic development and industrial control systems.
-- 💞️ I’m looking to collaborate on embedded projects with medical or industrial applications.
+- 👋 Hi, I’m Akhil Athawale, an electrical engineer from NC State.
+- 👀 I work on embedded devices and analog/RF chip design
+- 🌱 I’m currently learning how to use different platforms to perform chip-level simulations, and I partake in part-time embedded hardware/software development.
 - 📫 Shoot me an email - akhilathawale@gmail.com or athawaleakhil@protonmail.com. I respond regularly.
 
 <!---
