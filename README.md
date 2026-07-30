@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Akhil Athawale, an electrical engineer from NC State.
-- 👀 I work on embedded devices and analog/RF chip design
-- 🌱 I’m currently learning how to use different platforms to perform chip-level simulations, and I partake in part-time embedded hardware/software development.
+- 👋 Hi, I’m Akhil Athawale, an electronics engineer from Nagpur, India.
+- 👀 I work on designing security and fire alarm systems.
 - 📫 Shoot me an email - akhilathawale@gmail.com or athawaleakhil@protonmail.com. I respond regularly.
 
 <!---
